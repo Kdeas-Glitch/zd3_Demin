@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\bin\Debug\net8.0-windows\zd3.exe
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\bin\Debug\net8.0-windows\zd3.deps.json
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\bin\Debug\net8.0-windows\zd3.runtimeconfig.json
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\bin\Debug\net8.0-windows\zd3.dll
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\bin\Debug\net8.0-windows\zd3.pdb
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\obj\Debug\net8.0-windows\zd3.Form1.resources
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\obj\Debug\net8.0-windows\zd3.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\obj\Debug\net8.0-windows\zd3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\obj\Debug\net8.0-windows\zd3.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\obj\Debug\net8.0-windows\zd3.AssemblyInfo.cs
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\obj\Debug\net8.0-windows\zd3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\obj\Debug\net8.0-windows\zd3.dll
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\obj\Debug\net8.0-windows\refint\zd3.dll
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\obj\Debug\net8.0-windows\zd3.pdb
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\obj\Debug\net8.0-windows\zd3.genruntimeconfig.cache
+C:\Users\admin\Desktop\Моя\Проекты\УП_01\zd3\obj\Debug\net8.0-windows\ref\zd3.dll
